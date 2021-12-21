@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/static/js/main.de17c946.chunk.js",
-    "main.js.map": "/static/js/main.de17c946.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.370750f3.js",
-    "runtime-main.js.map": "/static/js/runtime-main.370750f3.js.map",
-    "static/js/2.95c405ef.chunk.js": "/static/js/2.95c405ef.chunk.js",
-    "static/js/2.95c405ef.chunk.js.map": "/static/js/2.95c405ef.chunk.js.map",
+    "main.js": "/static/js/main.b851eac0.js",
+    "static/media/kyumin.jpg": "/static/media/kyumin.de3626b8ce6968e72f39.jpg",
+    "static/media/backgroundImg.jpg": "/static/media/backgroundImg.b533a860818925037570.jpg",
+    "static/media/githubLogo.png": "/static/media/githubLogo.a3b537146fe31e468854.png",
+    "static/media/react.png": "/static/media/react.4526cfee2f4180584a36.png",
+    "static/media/Tistory_logo.png": "/static/media/Tistory_logo.89035358aad29e7b85e7.png",
+    "static/media/Node-js.svg": "/static/media/Node-js.dd47e26ed1d7dddf018e5cbffc40f76d.svg",
+    "static/media/Git-logo.svg": "/static/media/Git-logo.464bf8f30fbe0824d22db61efde3e44b.svg",
+    "static/media/CSS3.svg": "/static/media/CSS3.bba0846c17cbd72752bd3deda1c1fdae.svg",
     "index.html": "/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.95c405ef.chunk.js.LICENSE.txt": "/static/js/2.95c405ef.chunk.js.LICENSE.txt"
+    "static/media/JavaScript_logo.svg": "/static/media/JavaScript_logo.acc4642f682cd93a4c20a8a02c0cfa21.svg",
+    "static/media/HTML5.svg": "/static/media/HTML5.aff8a9cb398fc75e4f21dab1ba1e097e.svg",
+    "main.b851eac0.js.map": "/static/js/main.b851eac0.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.370750f3.js",
-    "static/js/2.95c405ef.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.de17c946.chunk.js"
+    "static/js/main.b851eac0.js"
   ]
 }
