@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/static/js/main.7b1c71a7.js",
+    "main.js": "/static/js/main.313d740b.js",
     "static/media/결과뷰.png": "/static/media/결과뷰.eb2ef2c9f9e22c11756c.png",
     "static/media/검색뷰_버전2.png": "/static/media/검색뷰_버전2.69c577a3714fe2c9f8b7.png",
     "static/media/kyumin.jpg": "/static/media/kyumin.de3626b8ce6968e72f39.jpg",
@@ -19,9 +19,9 @@
     "index.html": "/index.html",
     "static/media/JavaScript_logo.svg": "/static/media/JavaScript_logo.acc4642f682cd93a4c20a8a02c0cfa21.svg",
     "static/media/HTML5.svg": "/static/media/HTML5.aff8a9cb398fc75e4f21dab1ba1e097e.svg",
-    "main.7b1c71a7.js.map": "/static/js/main.7b1c71a7.js.map"
+    "main.313d740b.js.map": "/static/js/main.313d740b.js.map"
   },
   "entrypoints": [
-    "static/js/main.7b1c71a7.js"
+    "static/js/main.313d740b.js"
   ]
 }
