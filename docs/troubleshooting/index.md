@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Trobule Shooting
+title: Trouble Shooting
 nav_order: 5
 has_children: true
 ---
